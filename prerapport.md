@@ -5,7 +5,8 @@
 
 
 ##1. MeFoSyloMa
-MeFoSyLoMa (Méthodes Formelles pour les Systèmes Logiciels et Matériels) est un groupe de vérification francilien dont l’objectif est de permettre la confrontation de différentes approches ou points de vue sur l’utilisation des méthodes formelles dans les domaines du génie logiciel, de la conception de circuit, des systèmes répartis, des systèmes temps-réel ou encore des systèmes d’information. Le groupe s’organise autour de réunions bimestrielles où sont exposés des travaux de recherche récents sur ce thème. Les partenaires du groupe sont les laboratoires Cedric (Cnam), IBISC (Univ. Evry), LACL (Univ. Paris 12), LIP6 (UPMC), LIPN (Univ. Paris 13), LRDE (Epita), LSV (École Normale Supérieure de Cachan) et LTCI (TELECOM ParisTech).
+MeFoSyLoMa (Méthodes Formelles pour les Systèmes Logiciels et Matériels) est un groupe de vérification francilien dont l’objectif est de permettre la confrontation de différentes approches ou points de vue sur l’utilisation des méthodes formelles dans les domaines du génie logiciel, de la conception de circuit, des systèmes répartis, des systèmes temps-réel ou encore des systèmes d’information.
+Le groupe s’organise autour de réunions bimestrielles où sont exposés des travaux de recherche récents sur ce thème. Les partenaires du groupe sont les laboratoires Cedric (Cnam), IBISC (Univ. Evry), LACL (Univ. Paris 12), LIP6 (UPMC), LIPN (Univ. Paris 13), LRDE (Epita), LSV (École Normale Supérieure de Cachan) et LTCI (TELECOM ParisTech).
 
 ##2.Organisation de CosyVerif
 CosyVerif est un environnement logiciel dont le but est la spécification et la vérification formelle des systèmes dynamiques. Le projet a été décidé et soutenu par trois partenaires du groupe de vérification MeFoSyLoMa.
