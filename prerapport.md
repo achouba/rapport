@@ -45,7 +45,7 @@ Deux familles de formalismes sont actuellement pris en charge : les automates et
 ![](https://lh3.googleusercontent.com/-LWutJGUjfoU/VVWlD-j3TKI/AAAAAAAAAi8/YqYKQAkDWfQ/s0/cosyverif.JPG "")
 Figure 4.1 – Architecture de CosyVerif <sup>[2]</sup>
 
-##4.2 Problèmes identifiés
+##4.1 Problèmes identifiés
 Les choix techniques pour la réalisation de la plateforme ont jusqu’ici été influencés par les composants préexistants. La première brique fut Coloane, écrit en Java sous la forme d’un plug-in Eclipse. Le serveur aussi développé en Java, afin de conserver un seul langage. 
 Le protocole SOAP a été choisi comme protocole de communication vue qu'il dispose d’une interface Java.
 Plusieurs problèmes ont mené à la redéfinition technique du projet CosyVerif.
@@ -56,7 +56,7 @@ Plusieurs problèmes ont mené à la redéfinition technique du projet CosyVerif
  - plantage du serveur à cause des outils lancé directement par ce dernier
 Ces problèmes de la plate-forme existante ont conduits l’équipe à repartir sur une nouvelle base, tout en restant vigilant pour ne pas retomber sur les mêmes difficultés. 
 
-###4.1 Nouvelle plateforme
+###4.2 Nouvelle plateforme
 Un travail a été fait l'année dernière par un Stagiaire M2 pour créer une nouvelle plateforme pour CosyVerif.
 ###Serveur
  Le stagiaire a développé un serveur RESTful en PHP et les communications entre le serveur et les client se font avec des requêtes HTTP.
